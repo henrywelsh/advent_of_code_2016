@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "advent_of_code_2016_b95d56d0"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Day1",
+            "request": "launch",
+            "mainClass": "Day1",
+            "projectName": "advent_of_code_2016_b95d56d0"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - day1",
+            "request": "launch",
+            "mainClass": "day1",
+            "projectName": "advent_of_code_2016_b95d56d0"
+        }
+    ]
+}
